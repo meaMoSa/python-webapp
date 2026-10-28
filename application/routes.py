@@ -46,7 +46,7 @@ joke_dict = {0: ["Why was Cinderella so bad a football?", "She kept running away
              21: ["Why don’t skeletons fight each other?", "They don't hvae the guts."],
              22: ["What do you call a fake noodle?", "An impasta."],
              23: ["What do you call cheese that isn't yours?", "Nacho cheese."],
-             24: ["Why can't you hear a pterodactyl go to the bathroom?", "Because the ""p"" is silent."],
+             24: ["Why can't you hear a pterodactyl go to the bathroom?", "Because the p is silent."],
              25: ["What do you call a fly with no wings?", "A walk."]
              }
 
