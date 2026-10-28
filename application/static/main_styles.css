@@ -70,6 +70,6 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: seagreen;
+  background-color: mistyrose;
 }
 
